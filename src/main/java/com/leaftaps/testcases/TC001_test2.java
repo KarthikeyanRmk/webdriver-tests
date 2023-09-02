@@ -11,6 +11,8 @@ public class TC001_test2 extends ProjectHooks{
 	public void setValues() {
 		System.out.println("hello");
 		System.out.println("testing'");
+		System.out.println("testinger33'");
+
 	}
 	
 	
