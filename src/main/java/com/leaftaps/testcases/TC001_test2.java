@@ -9,9 +9,10 @@ import com.leaftaps.pages.LoginPage;
 public class TC001_test2 extends ProjectHooks{
 	@BeforeTest
 	public void setValues() {
-		System.out.println("hello");
+		System.out.println("hello33");
 		System.out.println("testing'");
 		System.out.println("testinfg 3");
+		System.out.println("testing4");
 	}
 	
 	
