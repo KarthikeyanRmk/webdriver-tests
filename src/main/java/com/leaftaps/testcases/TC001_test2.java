@@ -10,6 +10,7 @@ public class TC001_test2 extends ProjectHooks{
 	@BeforeTest
 	public void setValues() {
 		System.out.println("hello");
+		System.out.println("test");
 	}
 	
 	
