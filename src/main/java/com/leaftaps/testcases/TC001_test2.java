@@ -15,7 +15,7 @@ public class TC001_test2 extends ProjectHooks{
 		System.out.println("hello33");
 		System.out.println("testing'");
 		System.out.println("hello");
-		System.out.println("testing6");
+		System.out.println("testin");
 		System.out.println("testing4");
 		System.out.println("testing5");
 	}
